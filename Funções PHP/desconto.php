@@ -5,4 +5,4 @@
 
 		return $valor_com_desconto;
 	}
-?>
+?>0
