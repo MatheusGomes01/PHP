@@ -11,4 +11,4 @@ if($usuario_validado){
 }else{
 	echo "acesso negado";
 }
-?>
+?>0

@@ -2,4 +2,4 @@
 include "menu.php";	
 ?>
 
-TECNOLOGIA <br>
+TECNOLOGIA <br>0
